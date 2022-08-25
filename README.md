@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alan Mecheraf, a 26 years old student currently based in Paris.
+- 👋 Hi, I’m Alan Mecheraf, a 26 years old DevOps currently based in Paris.
 - 👀 I’m interested in IT, mathematics, video games, japanese culture and sports.
 - 🌱 I’m currently learning at ETNA, an IT school based in Ivry-sur-Seine, France.
 - 🏯 President of a French & Japanese association, [Gengoffee](https://www.gengoffee.fr).
