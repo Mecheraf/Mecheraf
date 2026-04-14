@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Alan, a DevOps currently based in Paris.
 - 👀 I’m interested in IT, mathematics, video games, japanese culture and sports.
 - 🌱 Graduated at ETNA, an IT school based in Paris, France.
-- 🏯 President of a French & Japanese association, [Gengoffee](https://www.gengoffee.fr).
+- 💼 Currently working as a DevOps Engineer at Lazard.
+- 🏯 Founder of a French & Japanese organization, [Gengoffee](https://www.gengoffee.fr).
 - 📫 You can reach me at alan.mecheraf@gmail.com
 
 <!---
